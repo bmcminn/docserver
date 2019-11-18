@@ -1,0 +1,10 @@
+{
+  "name": "docserver",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Brandtley McMinn <labs@gbox.name>",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-it": "^10.0.0"
+  }
+}

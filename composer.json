@@ -1,0 +1,12 @@
+{
+    "name": "lappy/docserver",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bmcminn",
+            "email": "labs@gbox.name"
+        }
+    ],
+    "require": {}
+}
